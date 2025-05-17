@@ -6,8 +6,8 @@
 
 🎓 **Sobre mim**
 
-- <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="laptop" width="20" style="vertical-align:middle" /> Estudante de **Análise e Desenvolvimento de Sistemas**  
-- <img src="https://media.giphy.com/media/3o6ZsYx6ck3S6Zt9M4/giphy.gif" alt="rocket" width="20" style="vertical-align:middle" /> Sempre em busca de novos conhecimentos e desafios  
+- <img src="https://media.giphy.com/media/l0MYrHA8GxIgExQhS/giphy.gif" alt="laptop" width="20" style="vertical-align:middle" /> Estudante de **Análise e Desenvolvimento de Sistemas**  
+- <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="rocket" width="20" style="vertical-align:middle" /> Sempre em busca de novos conhecimentos e desafios  
 - <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="plant" width="20" style="vertical-align:middle" /> Atualmente aprendendo mais sobre **Java, MySQL e JavaScript**
 
 ---
