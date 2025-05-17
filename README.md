@@ -4,11 +4,21 @@
 
 ---
 
-🎓 **Sobre mim**
+<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
 
-- 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🚀 Sempre em busca de novos conhecimentos e desafios
-- 🌱 Atualmente aprendendo mais sobre **Java, MySQL e JavaScript**
+  <div style="max-width: 450px; text-align: left;">
+    🎓 **Sobre mim**
+
+    - 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
+    - 🚀 Sempre em busca de novos conhecimentos e desafios
+    - 🌱 Atualmente aprendendo mais sobre **Java, MySQL e JavaScript**
+  </div>
+
+  <div>
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat typing" width="250" />
+  </div>
+
+</div>
 
 ---
 
@@ -42,7 +52,7 @@
 
 ### 📊 Estatísticas do GitHub:
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px;">
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuluPereira&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuluPereira&layout=compact&theme=radical" />
 </div>
