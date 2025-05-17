@@ -8,7 +8,7 @@
 
 - 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🚀 Sempre em busca de novos conhecimentos e desafios
-- 🌱 Atualmente aprendendo mais sobre **Java, MySQL, JavaScript e Phyton**
+- 🌱 Atualmente aprendendo mais sobre **Java, MySQL, JavaScript e Python**
 
 ---
 
@@ -30,6 +30,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
