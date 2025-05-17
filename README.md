@@ -6,9 +6,9 @@
 
 🎓 **Sobre mim**
 
-- <img src="https://media.giphy.com/media/l0MYrHA8GxIgExQhS/giphy.gif" alt="laptop" width="20" style="vertical-align:middle" /> Estudante de **Análise e Desenvolvimento de Sistemas**  
-- <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="rocket" width="20" style="vertical-align:middle" /> Sempre em busca de novos conhecimentos e desafios  
-- <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="plant" width="20" style="vertical-align:middle" /> Atualmente aprendendo mais sobre **Java, MySQL e JavaScript**
+- 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🚀 Sempre em busca de novos conhecimentos e desafios
+- 🌱 Atualmente aprendendo mais sobre **Java, MySQL e JavaScript**
 
 ---
 
@@ -42,7 +42,7 @@
 
 ### 📊 Estatísticas do GitHub:
 
-<p align="center" style="display: flex; gap: 20px; justify-content: center;">
+<div align="center" style="display: flex; justify-content: center; gap: 40px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuluPereira&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuluPereira&layout=compact&theme=radical" />
-</p>
+</div>
