@@ -8,7 +8,7 @@
 
 - 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🚀 Sempre em busca de novos conhecimentos e desafios
-- 🌱 Atualmente aprendendo mais sobre **Java, MySQL e JavaScript**
+- 🌱 Atualmente aprendendo mais sobre **Java, MySQL, JavaScript e Phyton**
 
 ---
 
