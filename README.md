@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="https://i.imgur.com/1N5V0Of.gif" width="650" height="10" alt="Borda animada superior" />
-</p>
+<p align="center">✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Olá!+Bem-vindo(a)+ao+perfil!;Meu+nome+é+Luana+Pereira;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas&center=true&width=650&height=60&color=F76C6C&size=22" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/1N5V0Of.gif" width="650" height="10" alt="Borda animada inferior" />
-</p>
+<p align="center">✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨</p>
 
 ---
 
