@@ -1,22 +1,14 @@
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Aprendizado-yellow?style=for-the-badge&logo=appveyor" alt="Status Aprendizado" />
-  <img src="https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Code-MySQL-00758F?style=for-the-badge&logo=mysql" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Editor-Eclipse-2C2255?style=for-the-badge&logo=eclipse" alt="Eclipse" />
-  <img src="https://img.shields.io/badge/Editor-IntelliJ-000000?style=for-the-badge&logo=intellij-idea" alt="IntelliJ IDEA" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Olá!+Bem-vindo(a)+ao+perfil!;Meu+nome+é+Luana+Pereira;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas&center=true&width=650&height=60&color=F76C6C&size=22" alt="Typing SVG" />
 </p>
 
 ---
 
 🎓 **Sobre mim**
 
-- 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
-- 🚀 Sempre em busca de novos conhecimentos e desafios  
-- 🌱 Atualmente aprendendo mais sobre **Java, MySQL e JavaScript**  
+- 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🚀 Sempre em busca de novos conhecimentos e desafios
+- 🌱 Atualmente aprendendo mais sobre **Java, MySQL e JavaScript**
 
 ---
 
@@ -33,9 +25,25 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🚀 Tecnologias que uso:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40" alt="Eclipse" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub:
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuluPereira&show_icons=true&theme=radical" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuluPereira&layout=compact&theme=radical" />
 </p>
