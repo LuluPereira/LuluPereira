@@ -42,7 +42,15 @@
 
 ### 📊 Estatísticas do GitHub:
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px;">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuluPereira&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuluPereira&layout=compact&theme=radical" />
-</div>
+</p>
+
+---
+
+### 📚 Atualmente estou estudando:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+</p>
