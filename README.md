@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Olá!+Bem-vindo(a)+ao+perfil!;Meu+nome+é+Luana+Pereira;E+sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas&center=true&width=650&height=60&color=F76C6C&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=E+sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Olá!+Bem-vindo(a)+ao+perfil!;Meu+nome+é+Luana+Pereira&center=true&width=650&height=60&color=F76C6C&size=22" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,7 +8,12 @@
 
 - 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🚀 Sempre em busca de novos conhecimentos e desafios
-- 🌱 Atualmente aprendendo mais sobre **Java, MySQL e JavaScript**
+- 🌱 Atualmente aprendendo mais sobre:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+</p>
 
 ---
 
@@ -41,16 +46,7 @@
 
 ### 📊 Estatísticas do GitHub:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuluPereira&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuluPereira&layout=compact&theme=radical" width="49%" />
-</p>
-
----
-
-### 📚 Atualmente estou estudando:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuluPereira&show_icons=true&theme=radical" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuluPereira&layout=compact&theme=radical" />
+</div>
