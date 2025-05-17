@@ -1,9 +1,5 @@
-
-<h1 align="center">Olá 👋, seja bem-vindo(a) ao meu perfil!</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Meu+nome+é+Luana+Pereira.;Estudante+de+ADS+e+apaixonada+por+tecnologia.;Em+constante+aprendizado!&center=true&width=500&height=45&color=F76C6C&size=22" alt="Typing SVG" />
-
 </p>
 
 ---
@@ -22,7 +18,7 @@
   <a href="https://www.linkedin.com/in/luana-pereira-018593341" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:luanapereia4516@gmail.com">
+  <a href="mailto:luanapereira4516@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
@@ -37,6 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40" alt="Eclipse" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA" />
 </p>
 
 ---
