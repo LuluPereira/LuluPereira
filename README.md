@@ -2,7 +2,8 @@
 <h1 align="center">Olá 👋, seja bem-vindo(a) ao meu perfil!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Meu+nome+é+Luana+Pereira.;Estudante+de+ADS+e+apaixonada+por+tecnologia.;Em+constante+aprendizado!&center=true&width=500&height=45&color=F76C6C&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Meu+nome+é+Luana+Pereira.;Estudante+de+ADS+e+apaixonada+por+tecnologia.;Em+constante+aprendizado!&center=true&width=500&height=45&color=F76C6C&size=22" alt="Typing SVG" />
+
 </p>
 
 ---
