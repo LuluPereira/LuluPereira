@@ -42,8 +42,7 @@
 
 ### 📊 Estatísticas do GitHub:
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 40px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuluPereira&show_icons=true&theme=radical" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuluPereira&layout=compact&theme=radical" />
-</p>
+</div>
