@@ -15,7 +15,7 @@
   </div>
 
   <div>
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat typing" width="250" />
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat typing" width="200" />
   </div>
 
 </div>
